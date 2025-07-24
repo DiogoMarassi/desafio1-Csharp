@@ -1,0 +1,14 @@
+C:\Users\DiogoMarassi\Desktop\exercices\bin\Debug\net9.0\exercices.exe
+C:\Users\DiogoMarassi\Desktop\exercices\bin\Debug\net9.0\exercices.deps.json
+C:\Users\DiogoMarassi\Desktop\exercices\bin\Debug\net9.0\exercices.runtimeconfig.json
+C:\Users\DiogoMarassi\Desktop\exercices\bin\Debug\net9.0\exercices.dll
+C:\Users\DiogoMarassi\Desktop\exercices\bin\Debug\net9.0\exercices.pdb
+C:\Users\DiogoMarassi\Desktop\exercices\obj\Debug\net9.0\exercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiogoMarassi\Desktop\exercices\obj\Debug\net9.0\exercices.AssemblyInfoInputs.cache
+C:\Users\DiogoMarassi\Desktop\exercices\obj\Debug\net9.0\exercices.AssemblyInfo.cs
+C:\Users\DiogoMarassi\Desktop\exercices\obj\Debug\net9.0\exercices.csproj.CoreCompileInputs.cache
+C:\Users\DiogoMarassi\Desktop\exercices\obj\Debug\net9.0\exercices.dll
+C:\Users\DiogoMarassi\Desktop\exercices\obj\Debug\net9.0\refint\exercices.dll
+C:\Users\DiogoMarassi\Desktop\exercices\obj\Debug\net9.0\exercices.pdb
+C:\Users\DiogoMarassi\Desktop\exercices\obj\Debug\net9.0\exercices.genruntimeconfig.cache
+C:\Users\DiogoMarassi\Desktop\exercices\obj\Debug\net9.0\ref\exercices.dll
